@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url(./fonts/Montserrat/Montserrat-VariableFont_wght.ttf);
+}
+
+@font-face {
+  font-family: 'Rubik Dirt';
+  src: url('./fonts/Rubik_Dirt/RubikDirt-Regular.ttf') format('truetype');
+}
+
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.font-rubik {
+  font-family: 'Rubik Dirt', sans-serif;
+}
