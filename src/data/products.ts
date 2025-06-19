@@ -35,7 +35,8 @@ export const productData: Category[] = [
         images: ["assets/images/COMBOS/combo-1.webp"],
         title: "COMBO STAR NUTRITION",
         description: "Combo 1kg de PROTEÍNA + 300gr de CREATINA - STAR NUTRITION",
-        price: "$62.500",
+        price: "$66.500",
+        offerPrice: "$60.500",
       },
       {
         id: 70,
@@ -75,7 +76,7 @@ export const productData: Category[] = [
       ],
       title: "PROTEINA – STAR NUTRITION PLATINUM DOYPACK",
       description: "Proteína avanzada.",
-      price: "$34.500",
+      price: "$38.500",
       featuredId: 5,
       longDescription: "Blend de proteína ultra concentrada, aislado de suero lácteo e hidrolizado de alta calidad. Ideal para ganar masa muscular, mejorar la recuperación y sumar proteína completa de forma práctica. Buena disolución, rico sabor y fácil digestión. // // **Cantidad:** 908 g // **Porción:** 30 g // **Servicios:** 30 // // **Información nutricional por porción (30 g):** // • Proteína: 25 g // • Carbohidratos: 2.6 g // • Grasas: 1.8 g // // **Modo de uso:** Mezclar 1 medida (30 g) en 200-250 ml de agua o leche. Consumir después del entrenamiento o en cualquier momento del día para aumentar tu ingesta de proteínas. Se recomienda tomar 1 o 2 porciones máximo al día. // // **Beneficios:** // 1. Favorece el desarrollo y mantenimiento de la masa muscular. // 2. Acelera la recuperación post-entrenamiento. // 3. Aporta proteína de alta calidad y rápida absorción. // 4. Uso fácil y rápido para sumar proteína de alto valor en tu día a día. // 5. Ideal para complementar tu dieta de forma práctica."
     },
@@ -87,7 +88,7 @@ export const productData: Category[] = [
       ],
       title: "PROTEINA – STAR NUTRITION WHEY ISOLATE",
       description: "Proteína aislada de altísima pureza.",
-      price: "$71.000",
+      price: "$75.000",
       longDescription: "Proteína de suero lácteo 100% aislada de altísima pureza, deslactosada y sin azúcar. Sin dudas una de las mejores proteínas en polvo si hablamos de calidad y pureza, ideal para aquellas personas exigentes. Ideal para etapas de definición y para dietas bajas en calorías. // // **Cantidad:** 908 g // **Porción:** 30 g // **Servicios:** 30 // // **Información nutricional por porción (30 g):** // • Proteína: 27 g // • Carbohidratos: ~1 g // • Grasas: ~1 g // // **Modo de uso:** Mezclar 1 medida (30 g) en 200-250 ml de agua o leche. Consumir después del entrenamiento o en cualquier momento del día para aumentar tu ingesta de proteínas. Se recomienda tomar 1 o 2 porciones máximo al día. // // **Beneficios:** // 1. Favorece el desarrollo y mantenimiento de la masa muscular. // 2. Acelera la recuperación post-entrenamiento. // 3. Aporta proteína de altísima calidad y pureza. // 4. Ideal para definición y dietas bajas en calorías. // 5. Fácil disolución y digestión."
     },
     {
@@ -241,7 +242,7 @@ export const productData: Category[] = [
       ],
       title: "PROTEINA – STAR NUTRITION PLATINUM",
       description: "Presentación de 3KG para máximo rendimiento.",
-      price: "$109.000",
+      price: "$120.000",
     },
   ],
 },
@@ -269,7 +270,7 @@ export const productData: Category[] = [
         ],
         title: "GANADORES DE PESO - MUTANT MASS STAR NUTRITION 1.5KG",
         description: "Fórmula potente para volumen.",
-        price: "$28.000",
+        price: "$31.000",
         longDescription: "**Información nutricional por 90 g (2 scoops):** // • Valor energético: 382 kcal // • Proteínas: 23 g // • Carbohidratos: 59 g // // **Ingredientes principales:** // • Proteínas: suero de leche (whey), caseína // • Carbohidratos: maltodextrina, dextrosa, almidón de maíz // • Aminoácidos añadidos: creatina, glutamina, BCAA, taurina // • Vitaminas y minerales: complejo multivitamínico // // **Modo de uso:** // Mezclar 90 g (aproximadamente 2 medidas) en 500 ml de agua o leche. // Consumir 1 a 2 veces por día, preferentemente después del entrenamiento y/o entre comidas. // Ajustar según los requerimientos calóricos individuales. // // **Beneficios principales:** // • Aporta calorías de calidad para favorecer el aumento de masa muscular // • Proporciona una mezcla de proteínas de rápida y lenta absorción // • Favorece la recuperación y el crecimiento muscular // • Mejora el rendimiento y la resistencia durante el entrenamiento // • Ayuda a reponer energía y glucógeno post-entrenamiento"
       },
       {
