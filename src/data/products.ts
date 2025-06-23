@@ -101,6 +101,8 @@ export const productData: Category[] = [
       description: "Ideal para recuperación.",
       featuredId: 4,
       price: "$43.000",
+      offerPrice: "$39.000",
+      exclusiveId: 1,
       longDescription: "Proteína de suero lácteo concentrada y aislada de alta calidad, diseñada para favorecer el desarrollo muscular, acelerar la recuperación y aportar un perfil completo de aminoácidos. Ideal para sumar proteína de forma rápida y eficiente a tu dieta diaria. // // **Cantidad:** 930 g // **Porción:** 31 g // **Servicios:** 30 // // **Información nutricional por porción (31 g):** // • Proteína: 25 g // • Carbohidratos: 1.9 g // • Grasas: 2.3 g // // **Modo de uso:** Mezclar 1 medida (31 g) en 200-250 ml de agua o leche. Consumir después del entrenamiento o en cualquier momento del día para aumentar tu ingesta de proteínas. Se recomienda tomar 1 o 2 porciones máximo al día. // // **Beneficios:** // 1. Favorece el desarrollo y mantenimiento de la masa muscular. // 2. Acelera la recuperación post-entrenamiento. // 3. Aporta proteína de alta calidad y rápida absorción. // 4. Uso fácil y rápido para sumar proteína de alto valor en tu día a día. // 5. Ideal para complementar tu dieta de forma práctica."
     },
     {
@@ -123,7 +125,7 @@ export const productData: Category[] = [
       title: "PROTEINA – VEGETAL \"SOY PROTEIN\" PULVER",
       description: "Alternativa vegetal saludable.",
       price: "$39.500",
-      exclusiveId: 2,
+      exclusiveId: 3,
       offerPrice: "$34.400",
       longDescription: "Proteína de soja en polvo de alta calidad, con un perfil completo de aminoácidos esenciales. Es una excelente opción vegetal para quienes buscan aumentar su ingesta proteica, favorecer el desarrollo muscular y cuidar la salud. Ideal para dietas veganas y vegetarianas, además de ser libre de lactosa. // // **Cantidad:** 1 kg // **Porción:** 40 g // **Servicios:** 25 // // **Información nutricional por porción (40 g):** // • Proteína: 34 g // • Carbohidratos: 4 g // • Grasas: 0.5 g // // **Modo de uso:** Mezclar 1 medida (40 g) en 200-250 ml de agua. Consumir después del entrenamiento o en cualquier momento del día para aumentar tu ingesta de proteínas. Se recomienda tomar 1 o 2 porciones máximo al día. // // **Beneficios:** // 1. Fuente vegana y libre de lactosa. // 2. Ayuda al desarrollo y mantenimiento de la masa muscular. // 3. Perfil completo de aminoácidos esenciales. // 4. Fácil digestión y rápida absorción. // 5. Ideal para complementar dietas veganas, vegetarianas o sin lactosa."
     },
@@ -474,7 +476,7 @@ export const productData: Category[] = [
         title: "BCAA - RELOAD ENA SPORT",
         description: "220GR de BCAA en polvo.",
         price: "$22.200",
-        exclusiveId: 3,
+        exclusiveId: 4,
         offerPrice: "$19.400",
         longDescription: "**Cantidad:** 200 g // **Porción:** 11 g (2 scoops) // **Servicios:** 20 // **Ratio:** 2:1:1 // // **Ingredientes:** L-Leucina, L-Isoleucina, L-Valina, Magnesio, Potasio, Sodio, Cloruro, Carbohidratos // // **Modo de uso:** Tomar 2 porciones diarias disueltas en agua, distribuidas en alguna de las siguientes formas: // – 1 porción antes y 1 porción durante el entrenamiento // – 1 porción durante y 1 porción después del entrenamiento // – 1 porción durante y 1 porción después del entrenamiento // // **Beneficios:** // • Estimulan la síntesis de proteínas musculares. // • Aceleran la recuperación post-entreno. // • Ayudan a reducir el catabolismo muscular. // • Mejoran el rendimiento y la resistencia. // • Disminuyen la fatiga durante el ejercicio. // // **Información adicional:** // El ratio 2:1:1 indica la proporción de leucina frente a isoleucina y valina. Esto significa que por cada 2 porciones de leucina, hay 1 de isoleucina y 1 de valina. La leucina es clave porque activa la síntesis proteica muscular, siendo el aminoácido más importante para el crecimiento y recuperación muscular."
       },
@@ -572,7 +574,7 @@ export const productData: Category[] = [
         title: "L-ARGININA - STAR NUTRITION 150 GRS",
         description: "150GR para vasodilatación y energía.",
         price: "$14.000",
-        exclusiveId: 4,
+        exclusiveId: 5,
         offerPrice: "$12.200",
         longDescription: "**Cantidad:** 150g // **Porción:** 3.8g - **Servicios:** 39 // // **Modo de uso:** Mezclar 1 porción con 200 ml de agua. // **Días de Entrenamiento:** 1 servicio, 1 hora antes de entrenar. // **Días de Descanso:** 1 servicio, 1 hora antes del desayuno. // // **Beneficios:** // - Mejora la circulación sanguínea y la oxigenación muscular. // - Facilita el transporte de nutrientes y elimina desechos metabólicos. // - Acelera la recuperación y estimula el crecimiento muscular.",
       },
@@ -585,7 +587,7 @@ export const productData: Category[] = [
         title: "BETA ALANINA - STAR NUTRITION 150 GRS",
         description: "150GR de beta alanina para resistencia.",
         price: "$22.500",
-        exclusiveId: 1,
+        exclusiveId: 2,
         offerPrice: "$19.600",
         longDescription: "**Cantidad:** 150g // **Porción:** 2g (media cuchara de té) - **Servicios:** 150 // // **Modo de uso:** Se pueden utilizar de 2 a 5g diarios, previo al entrenamiento. // // **Beneficios:** // - Mejora el rendimiento y la resistencia en entrenamientos de alta intensidad. // - Ayuda a reducir la fatiga muscular. // - Aumenta la capacidad de realizar repeticiones adicionales. // - Mejora el rendimiento en ejercicios que requieren explosividad y fuerza.",
       },
