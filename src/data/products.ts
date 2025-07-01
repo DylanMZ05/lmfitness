@@ -595,7 +595,6 @@ export const productData: Category[] = [
         description: "150GR de beta alanina para resistencia.",
         price: "$22.500",
         exclusiveId: 2,
-        offerPrice: "$19.600",
         longDescription: "**Cantidad:** 150g // **Porción:** 2g (media cuchara de té) - **Servicios:** 150 // // **Modo de uso:** Se pueden utilizar de 2 a 5g diarios, previo al entrenamiento. // // **Beneficios:** // - Mejora el rendimiento y la resistencia en entrenamientos de alta intensidad. // - Ayuda a reducir la fatiga muscular. // - Aumenta la capacidad de realizar repeticiones adicionales. // - Mejora el rendimiento en ejercicios que requieren explosividad y fuerza.",
       },
       {
