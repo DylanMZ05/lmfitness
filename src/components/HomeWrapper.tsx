@@ -12,7 +12,7 @@ const offerSlides = [
   {
     imageDesktop: "assets/images/SLIDER/CATALOGO/05-desktop-1.webp",
     imageMobile: "assets/images/SLIDER/CATALOGO/05-mobile.webp",
-    link: "/producto/69",
+    link: "/producto/73",
   },
   {
     imageDesktop: "assets/images/SLIDER/CATALOGO/01-desktop-1.webp",
