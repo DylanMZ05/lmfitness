@@ -31,6 +31,14 @@ export const productData: Category[] = [
     image: "assets/images/COMBOS/combo-1.webp",
     products: [
       {
+        id: 73,
+        images: ["assets/images/OFERTA-SEMANAL/01.webp"],
+        title: "COMBO 2X CREATINA 100% - PUERZA ONE FIT",
+        description: "COMBO 2 CREATINA 100% - PUERZA ONE FIT",
+        price: "$36.000",
+        offerPrice: "$30.000",
+      },
+      {
         id: 69,
         images: ["assets/images/COMBOS/combo-1.webp"],
         title: "COMBO STAR NUTRITION",
@@ -101,7 +109,6 @@ export const productData: Category[] = [
       description: "Ideal para recuperación.",
       featuredId: 4,
       price: "$43.000",
-      offerPrice: "$39.000",
       exclusiveId: 1,
       longDescription: "Proteína de suero lácteo concentrada y aislada de alta calidad, diseñada para favorecer el desarrollo muscular, acelerar la recuperación y aportar un perfil completo de aminoácidos. Ideal para sumar proteína de forma rápida y eficiente a tu dieta diaria. // // **Cantidad:** 930 g // **Porción:** 31 g // **Servicios:** 30 // // **Información nutricional por porción (31 g):** // • Proteína: 25 g // • Carbohidratos: 1.9 g // • Grasas: 2.3 g // // **Modo de uso:** Mezclar 1 medida (31 g) en 200-250 ml de agua o leche. Consumir después del entrenamiento o en cualquier momento del día para aumentar tu ingesta de proteínas. Se recomienda tomar 1 o 2 porciones máximo al día. // // **Beneficios:** // 1. Favorece el desarrollo y mantenimiento de la masa muscular. // 2. Acelera la recuperación post-entrenamiento. // 3. Aporta proteína de alta calidad y rápida absorción. // 4. Uso fácil y rápido para sumar proteína de alto valor en tu día a día. // 5. Ideal para complementar tu dieta de forma práctica."
     },
