@@ -30,14 +30,14 @@ export const productData: Category[] = [
     slug: "combos-exclusivos",
     image: "assets/images/COMBOS/combo-1.webp",
     products: [
-      {
-        id: 73,
-        images: ["assets/images/OFERTA-SEMANAL/01.webp"],
-        title: "COMBO 2X CREATINA 100% - PUERZA ONE FIT",
-        description: "COMBO 2 CREATINA 100% - PUERZA ONE FIT",
-        price: "$36.000",
-        offerPrice: "$30.000",
-      },
+      // {
+      //   id: 73,
+      //   images: ["assets/images/OFERTA-SEMANAL/01.webp"],
+      //   title: "COMBO 2X CREATINA 100% - PUERZA ONE FIT",
+      //   description: "COMBO 2 CREATINA 100% - PUERZA ONE FIT",
+      //   price: "$36.000",
+      //   offerPrice: "$30.000",
+      // },
       {
         id: 69,
         images: ["assets/images/COMBOS/combo-1.webp"],
@@ -51,8 +51,8 @@ export const productData: Category[] = [
         images: ["assets/images/COMBOS/combo-2.webp"],
         title: "COMBO GOLD NUTRITION",
         description: "Combo 1kg de PROTEÍNA + 300gr de CREATINA - GOLD NUTRITION",
-        price: "$68.600",
-        offerPrice: "$61.800",
+        price: "$72.100",
+        offerPrice: "$64.900",
       },
       // {
       //   id: 71,
@@ -144,7 +144,7 @@ export const productData: Category[] = [
       ],
       title: "PROTEINA – VEGETAL GOLD NUTRITION",
       description: "Nutrición natural.",
-      price: "$32.800",
+      price: "$34.200",
       longDescription: "Proteína vegetal aislada de alta calidad, elaborada a partir de fuentes naturales como guisante y arroz. Ideal para quienes buscan una opción vegana, libre de lactosa y con un perfil completo de aminoácidos. Perfecta para apoyar el desarrollo muscular y la recuperación, con fácil digestión y absorción. // // **Cantidad:** 907 g // **Porción:** 35 g // **Servicios:** 26 // // **Información nutricional por porción (35 g):** // • Proteína: 30 g // • Carbohidratos: 1 g // • Grasas: 2.5 g // • Fibra: 1.5 g // • Vitamina B12 // // **Modo de uso:** Mezclar 1 medida (35 g) en 200-250 ml de agua. Consumir después del entrenamiento o en cualquier momento del día para aumentar tu ingesta de proteínas. Se recomienda tomar 1 o 2 porciones máximo al día. // // **Beneficios:** // 1. Fuente vegana y libre de lactosa. // 2. Ayuda al desarrollo y mantenimiento de la masa muscular. // 3. Perfil completo de aminoácidos esenciales. // 4. Fácil digestión y rápida absorción. // 5. Ideal para complementar dietas veganas, vegetarianas o sin lactosa."
     },
     {
@@ -166,7 +166,7 @@ export const productData: Category[] = [
       ],
       title: "PROTEINA – GOLD NUTRITION 100% WHEY",
       description: "Proteína pura y efectiva.",
-      price: "$38.300",
+      price: "$41.600",
       longDescription: "Blend de proteína ultra concentrada, aislado de suero lácteo e hidrolizado de alta calidad. Ideal para ganar masa muscular, mejorar la recuperación y sumar proteína completa de forma práctica. Buena disolución, rico sabor y fácil digestión. // // **Cantidad:** 908 g // **Porción:** 35 g // **Servicios:** 26 // // **Información nutricional por porción (35 g):** // • Proteína: 28 g // • Carbohidratos: 4.8 g // • Grasas: 1.8 g // // **Modo de uso:** Mezclar 1 medida (35 g) en 200-250 ml de agua o leche. Consumir después del entrenamiento o en cualquier momento del día para aumentar tu ingesta de proteínas. Se recomienda tomar 1 o 2 porciones máximo al día. // // **Beneficios:** // 1. Favorece el desarrollo y mantenimiento de la masa muscular. // 2. Acelera la recuperación post-entrenamiento. // 3. Aporta proteína de alta calidad y rápida absorción. // 4. Uso fácil y rápido para sumar proteína de alto valor en tu día a día. // 5. Ideal para complementar tu dieta de forma práctica."
     },
     {
@@ -177,7 +177,7 @@ export const productData: Category[] = [
       ],
       title: "PROTEINA – GOLD NUTRITION WHEY RIPPED (CON QUEMADOR)",
       description: "Con quemadores para definición.",
-      price: "$42.800",
+      price: "$44.600",
       longDescription: "Proteína en polvo con quemador de grasa, diseñada para acompañar tus objetivos de definición y control de peso. Con alto contenido proteico, ayuda a mantener la masa muscular mientras favorece la pérdida de grasa. Ideal para dietas bajas en calorías y entrenamiento intenso. Fácil disolución y absorción. // // **Cantidad:** 910 g // **Porción:** 35 g // **Servicios:** 26 // // **Información nutricional por porción (35 g):** // • Proteína: 28 g // • Carbohidratos: 4.8 g // • Grasas: 1.5 g // // **Alto perfil de aminoácidos y quemadores como:** L-Carnitina, Garcinia Cambogia, Taurina, Cafeína. // // **Modo de uso:** Mezclar 1 medida (35 g) en 200-250 ml de agua o leche. Consumir después del entrenamiento o en cualquier momento del día para aumentar tu ingesta de proteínas. Se recomienda tomar 1 o 2 porciones máximo al día. // // **Beneficios:** // 1. Favorece el desarrollo y mantenimiento de la masa muscular. // 2. Acelera la recuperación post-entrenamiento. // 3. Aporta proteína de alta calidad y rápida absorción. // 4. Uso fácil y rápido para sumar proteína de alto valor en tu día a día. // 5. Ideal para complementar tu dieta de forma práctica. // 6. Ayuda a la pérdida de porcentaje de grasa corporal."
     },
     {
@@ -188,7 +188,7 @@ export const productData: Category[] = [
       ],
       title: "PROTEINA – GOLD NUTRITION WHEY ISOLATE",
       description: "Aislado de proteína premium.",
-      price: "$60.300",
+      price: "$62.900",
       longDescription: "Proteína de suero lácteo 100% aislada de altísima pureza, deslactosada y sin azúcar. Sin dudas una de las mejores proteínas en polvo si hablamos de calidad y pureza, ideal para aquellas personas exigentes. Ideal para etapas de definición y para dietas bajas en calorías. // // **Cantidad:** 908 g // **Porción:** 35 g // **Servicios:** 26 // // **Información nutricional por porción (35 g):** // • Proteína: 29 g // • Carbohidratos: 3.3 g // • Grasas: 0.8 g // // **Modo de uso:** Mezclar 1 medida (35 g) en 200-250 ml de agua o leche. Consumir después del entrenamiento o en cualquier momento del día para aumentar tu ingesta de proteínas. Se recomienda tomar 1 o 2 porciones máximo al día. // // **Beneficios:** // 1. Favorece el desarrollo y mantenimiento de la masa muscular. // 2. Acelera la recuperación post-entrenamiento. // 3. Aporta proteína de alta calidad y rápida absorción. // 4. Uso fácil y rápido para sumar proteína de alto valor en tu día a día. // 5. Ideal para complementar tu dieta de forma práctica."
     },
     {
@@ -408,7 +408,7 @@ export const productData: Category[] = [
         ],
         title: "CREATINA - MICRONIZADA GOLD NUTRITION (300gr)",
         description: "300GR de creatina de alta pureza.",
-        price: "$29.000",
+        price: "$30.500",
         featuredId: 1,
         longDescription: "**Cantidad:** 300g // **Sabor:** Sin sabor // **Porciones:** 60 (5g por porción) // // **Modo de uso:** 1 porción diaria (5g), post-entreno o en cualquier momento del día. Mantener la constancia. // // **Beneficios:** // - Aumento de rendimiento físico, mejorando la fuerza y potencia muscular. // - Aumento de la masa muscular, aumentando la síntesis de proteína a largo plazo. // - Recuperación más rápida, reduciendo el daño muscular y la inflamación. // - Beneficios cognitivos, ayudando a las funciones cerebrales como la memoria, la concentración y la atención.",
       },
@@ -536,7 +536,7 @@ export const productData: Category[] = [
         ],
         title: "PRE-ENTRENO - GOLD NUTRITION",
         description: "300gr para máximo rendimiento.",
-        price: "$21.000",
+        price: "$22.000",
         longDescription: "**Cantidad:** 300g // **Porción:** 14g (2 cucharadas) // **Servicios:** 20 // **Cafeína:** 176mg por porción // // **Modo de uso:** Disolver 1 medida en 500cm³ de agua fría. Consumir 15 a 30 minutos antes del entrenamiento o la competencia. No consumir más de 2 porciones diarias. // // **Beneficios:** // 1. Aumento de energía y resistencia para entrenamientos más intensos. // 2. Mejora de la concentración y enfoque durante el ejercicio. // 3. Aumento del rendimiento físico, ayudando a maximizar la fuerza y la potencia muscular. // 4. Mejora de la circulación y el flujo sanguíneo para un mejor rendimiento durante la actividad física.",
       },
       {
@@ -569,7 +569,7 @@ export const productData: Category[] = [
         ],
         title: "OXIDO NITRICO - GOLD NUTRITION",
         description: "195GR de óxido nítrico premium.",
-        price: "$21.000",
+        price: "$22.000",
         longDescription: "**Cantidad:** 195g // **Porción:** 7.8g - **Servicios:** 25 // // **Modo de uso:** Disolver 1 medida (7.8g) en 200cm³ de agua fría. Consumir 15 a 30 minutos antes del entrenamiento o la competencia. No consumir más de 2 porciones diarias. // // **Beneficios:** // - Mejora la circulación y el flujo sanguíneo. // - Mayor congestión muscular (\"pump\"). // - Aumenta el rendimiento físico y la resistencia. // - Reduce la fatiga durante el entrenamiento. // - Favorece una recuperación más rápida.",
       },
       {
@@ -683,7 +683,7 @@ export const productData: Category[] = [
         ],
         title: "ZMA - GOLD NUTRITION",
         description: "60 comp. con zinc, magnesio y B6.",
-        price: "$13.500",
+        price: "$14.000",
         longDescription: "**Cantidad:** 60 comprimidos // **Porción:** 2 cápsulas // **Servicios por envase:** 30 // // **Modo de uso:** Tomar 2 cápsulas diarias en un vaso de agua, 30 minutos antes de irte a dormir. // // **Beneficios principales:** // • Mejora la recuperación y crecimiento muscular. // • Aumenta la fuerza y el rendimiento físico. // • Promueve un sueño profundo y reparador. // • Refuerza el sistema inmunológico. // • Regula los niveles hormonales, especialmente testosterona. // • Reduce fatiga y estrés."
       },
       {
