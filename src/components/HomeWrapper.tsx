@@ -9,11 +9,11 @@ import FeaturedSlider from "../components/FeaturedSlider";
 import { productData } from "../data/products";
 
 const offerSlides = [
-  {
-    imageDesktop: "assets/images/SLIDER/CATALOGO/05-desktop-1.webp",
-    imageMobile: "assets/images/SLIDER/CATALOGO/05-mobile.webp",
-    link: "/producto/73",
-  },
+  // {
+  //   imageDesktop: "assets/images/SLIDER/CATALOGO/05-desktop-1.webp",
+  //   imageMobile: "assets/images/SLIDER/CATALOGO/05-mobile.webp",
+  //   link: "/producto/73",
+  // },
   {
     imageDesktop: "assets/images/SLIDER/CATALOGO/01-desktop-1.webp",
     imageMobile: "assets/images/SLIDER/CATALOGO/01-mobile.webp",
