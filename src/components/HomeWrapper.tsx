@@ -15,6 +15,11 @@ const offerSlides = [
   //   link: "/producto/73",
   // },
   {
+    imageDesktop: "assets/images/SLIDER/CATALOGO/06-desktop-1.webp",
+    imageMobile: "assets/images/SLIDER/CATALOGO/06-mobile.webp",
+    link: "/catalogo#super-precios-gentech",
+  },
+  {
     imageDesktop: "assets/images/SLIDER/CATALOGO/01-desktop-1.webp",
     imageMobile: "assets/images/SLIDER/CATALOGO/01-mobile.webp",
     link: "/producto/69",
