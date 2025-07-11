@@ -139,7 +139,7 @@ export const productData: Category[] = [
       ],
       title: "PROTEINA – STAR NUTRITION PLATINUM DOYPACK",
       description: "Proteína avanzada.",
-      price: "$40.500",
+      price: "$42.500",
       featuredId: 5,
       longDescription: "Blend de proteína ultra concentrada, aislado de suero lácteo e hidrolizado de alta calidad. Ideal para ganar masa muscular, mejorar la recuperación y sumar proteína completa de forma práctica. Buena disolución, rico sabor y fácil digestión. // // **Cantidad:** 908 g // **Porción:** 30 g // **Servicios:** 30 // // **Información nutricional por porción (30 g):** // • Proteína: 25 g // • Carbohidratos: 2.6 g // • Grasas: 1.8 g // // **Modo de uso:** Mezclar 1 medida (30 g) en 200-250 ml de agua o leche. Consumir después del entrenamiento o en cualquier momento del día para aumentar tu ingesta de proteínas. Se recomienda tomar 1 o 2 porciones máximo al día. // // **Beneficios:** // 1. Favorece el desarrollo y mantenimiento de la masa muscular. // 2. Acelera la recuperación post-entrenamiento. // 3. Aporta proteína de alta calidad y rápida absorción. // 4. Uso fácil y rápido para sumar proteína de alto valor en tu día a día. // 5. Ideal para complementar tu dieta de forma práctica."
     },
@@ -151,7 +151,7 @@ export const productData: Category[] = [
       ],
       title: "PROTEINA – STAR NUTRITION WHEY ISOLATE",
       description: "Proteína aislada de altísima pureza.",
-      price: "$79.300",
+      price: "$87.500",
       longDescription: "Proteína de suero lácteo 100% aislada de altísima pureza, deslactosada y sin azúcar. Sin dudas una de las mejores proteínas en polvo si hablamos de calidad y pureza, ideal para aquellas personas exigentes. Ideal para etapas de definición y para dietas bajas en calorías. // // **Cantidad:** 908 g // **Porción:** 30 g // **Servicios:** 30 // // **Información nutricional por porción (30 g):** // • Proteína: 27 g // • Carbohidratos: ~1 g // • Grasas: ~1 g // // **Modo de uso:** Mezclar 1 medida (30 g) en 200-250 ml de agua o leche. Consumir después del entrenamiento o en cualquier momento del día para aumentar tu ingesta de proteínas. Se recomienda tomar 1 o 2 porciones máximo al día. // // **Beneficios:** // 1. Favorece el desarrollo y mantenimiento de la masa muscular. // 2. Acelera la recuperación post-entrenamiento. // 3. Aporta proteína de altísima calidad y pureza. // 4. Ideal para definición y dietas bajas en calorías. // 5. Fácil disolución y digestión."
     },
     {
@@ -306,7 +306,7 @@ export const productData: Category[] = [
       ],
       title: "PROTEINA – STAR NUTRITION PLATINUM",
       description: "Presentación de 3KG para máximo rendimiento.",
-      price: "$127.700",
+      price: "$134.000",
     },
   ],
 },
@@ -334,7 +334,7 @@ export const productData: Category[] = [
         ],
         title: "GANADORES DE PESO - MUTANT MASS STAR NUTRITION 1.5KG",
         description: "Fórmula potente para volumen.",
-        price: "$32.600",
+        price: "$34.500",
         longDescription: "**Información nutricional por 90 g (2 scoops):** // • Valor energético: 382 kcal // • Proteínas: 23 g // • Carbohidratos: 59 g // // **Ingredientes principales:** // • Proteínas: suero de leche (whey), caseína // • Carbohidratos: maltodextrina, dextrosa, almidón de maíz // • Aminoácidos añadidos: creatina, glutamina, BCAA, taurina // • Vitaminas y minerales: complejo multivitamínico // // **Modo de uso:** // Mezclar 90 g (aproximadamente 2 medidas) en 500 ml de agua o leche. // Consumir 1 a 2 veces por día, preferentemente después del entrenamiento y/o entre comidas. // Ajustar según los requerimientos calóricos individuales. // // **Beneficios principales:** // • Aporta calorías de calidad para favorecer el aumento de masa muscular // • Proporciona una mezcla de proteínas de rápida y lenta absorción // • Favorece la recuperación y el crecimiento muscular // • Mejora el rendimiento y la resistencia durante el entrenamiento // • Ayuda a reponer energía y glucógeno post-entrenamiento"
       },
       {
@@ -407,7 +407,7 @@ export const productData: Category[] = [
         ],
         title: "CREATINA - MICRONIZADA STAR NUTRITION POTE (300gr)",
         description: "300GR de creatina monohidratada.",
-        price: "$33.800",
+        price: "$34.800",
         longDescription: "**Cantidad:** 300g // **Sabor:** Sin sabor // **Porciones:** 60 (5g por porción) // // **Modo de uso:** 1 porción diaria (5g), post-entreno o en cualquier momento del día. Mantener la constancia. // // **Beneficios:** // - Aumento de rendimiento físico, mejorando la fuerza y potencia muscular. // - Aumento de la masa muscular, aumentando la síntesis de proteína a largo plazo. // - Recuperación más rápida, reduciendo el daño muscular y la inflamación. // - Beneficios cognitivos, ayudando a las funciones cerebrales como la memoria, la concentración y la atención.",
       },
       {
@@ -418,7 +418,7 @@ export const productData: Category[] = [
         ],
         title: "CREATINA - MICRONIZADA STAR NUTRITION DOYPACK (300gr)",
         description: "300GR en empaque doypack.",
-        price: "$30.500",
+        price: "$31.500",
         featuredId: 2,
         longDescription: "**Cantidad:** 300g // **Sabor:** Sin sabor // **Porciones:** 60 (5g por porción) // // **Modo de uso:** 1 porción diaria (5g), post-entreno o en cualquier momento del día. Mantener la constancia. // // **Beneficios:** // - Aumento de rendimiento físico, mejorando la fuerza y potencia muscular. // - Aumento de la masa muscular, aumentando la síntesis de proteína a largo plazo. // - Recuperación más rápida, reduciendo el daño muscular y la inflamación. // - Beneficios cognitivos, ayudando a las funciones cerebrales como la memoria, la concentración y la atención.",
       },
@@ -430,7 +430,7 @@ export const productData: Category[] = [
         ],
         title: "CREATINA - MICRONIZADA STAR NUTRITION POTE (500gr)",
         description: "500GR de creatina monohidratada.",
-        price: "$50.900",
+        price: "$52.500",
         longDescription: "**Cantidad:** 500g // **Sabor:** Sin sabor // **Porciones:** 100 (5g por porción) // // **Modo de uso:** 1 porción diaria (5g), post-entreno o en cualquier momento del día. Mantener la constancia. // // **Beneficios:** // - Aumento de rendimiento físico, mejorando la fuerza y potencia muscular. // - Aumento de la masa muscular, aumentando la síntesis de proteína a largo plazo. // - Recuperación más rápida, reduciendo el daño muscular y la inflamación. // - Beneficios cognitivos, ayudando a las funciones cerebrales como la memoria, la concentración y la atención.",
       },
       {
@@ -441,7 +441,7 @@ export const productData: Category[] = [
         ],
         title: "CREATINA - MICRONIZADA STAR NUTRITION POTE (1kg)",
         description: "1KG de creatina monohidratada.",
-        price: "$92.200",
+        price: "$95.000",
         longDescription: "**Cantidad:** 1000g (1kg) // **Sabor:** Sin sabor // **Porciones:** 200 (5g por porción) // // **Modo de uso:** 1 porción diaria (5g), post-entreno o en cualquier momento del día. Mantener la constancia. // // **Beneficios:** // - Aumento de rendimiento físico, mejorando la fuerza y potencia muscular. // - Aumento de la masa muscular, aumentando la síntesis de proteína a largo plazo. // - Recuperación más rápida, reduciendo el daño muscular y la inflamación. // - Beneficios cognitivos, ayudando a las funciones cerebrales como la memoria, la concentración y la atención.",
       },
       {
@@ -526,7 +526,7 @@ export const productData: Category[] = [
         ],
         title: "BCAA - 2000 STAR NUTRITION",
         description: "120 comp. de BCAA 8:1:1.",
-        price: "$15.600",
+        price: "$16.000",
         longDescription: "**Cantidad:** 120 cápsulas // **Porción:** 4 cápsulas // **Servicios:** 30 // **Ratio:** 8:1:1 // // **Ingredientes:** L-Leucina, L-Isoleucina, L-Valina // // **Modo de uso:** Dividir 4 cápsulas diarias en 2 tomas: // – 2 cápsulas antes del entrenamiento // – 2 cápsulas después del entrenamiento // // **Beneficios:** // • Estimulan la síntesis de proteínas musculares. // • Aceleran la recuperación post-entreno. // • Ayudan a reducir el catabolismo muscular. // • Mejoran el rendimiento y la resistencia. // • Disminuyen la fatiga durante el ejercicio. // // **Información adicional:** // El ratio 8:1:1 indica la proporción de leucina frente a isoleucina y valina. Esto significa que por cada 8 porciones de leucina, hay 1 de isoleucina y 1 de valina. La leucina es clave porque activa la síntesis proteica muscular, siendo el aminoácido más importante para el crecimiento y recuperación muscular."
       },
       {
@@ -635,7 +635,7 @@ export const productData: Category[] = [
         ],
         title: "L-ARGININA - STAR NUTRITION 150 GRS",
         description: "150GR para vasodilatación y energía.",
-        price: "$14.000",
+        price: "$146000",
         exclusiveId: 5,
         offerPrice: "$15.300",
         longDescription: "**Cantidad:** 150g // **Porción:** 3.8g - **Servicios:** 39 // // **Modo de uso:** Mezclar 1 porción con 200 ml de agua. // **Días de Entrenamiento:** 1 servicio, 1 hora antes de entrenar. // **Días de Descanso:** 1 servicio, 1 hora antes del desayuno. // // **Beneficios:** // - Mejora la circulación sanguínea y la oxigenación muscular. // - Facilita el transporte de nutrientes y elimina desechos metabólicos. // - Acelera la recuperación y estimula el crecimiento muscular.",
@@ -646,9 +646,9 @@ export const productData: Category[] = [
           "assets/images/ARGININA-BETA-ALANINA/beta-alanina.webp",
           "assets/images/INFORMACION-NUTRICIONAL-PRODUCTOS/ARGININA-BETA-ALANINA/INFO-BETA-ALANINA-STAR.webp"
         ],
-        title: "BETA ALANINA - STAR NUTRITION 150 GRS",
+        title: "BETA ALAGNINA - STAR NUTRITION 150 GRS",
         description: "150GR de beta alanina para resistencia.",
-        price: "$24.500",
+        price: "$25.000",
         exclusiveId: 2,
         longDescription: "**Cantidad:** 150g // **Porción:** 2g (media cuchara de té) - **Servicios:** 150 // // **Modo de uso:** Se pueden utilizar de 2 a 5g diarios, previo al entrenamiento. // // **Beneficios:** // - Mejora el rendimiento y la resistencia en entrenamientos de alta intensidad. // - Ayuda a reducir la fatiga muscular. // - Aumenta la capacidad de realizar repeticiones adicionales. // - Mejora el rendimiento en ejercicios que requieren explosividad y fuerza.",
       },
