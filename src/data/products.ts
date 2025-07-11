@@ -43,8 +43,8 @@ export const productData: Category[] = [
         images: ["assets/images/COMBOS/combo-1.webp"],
         title: "COMBO STAR NUTRITION",
         description: "Combo 1kg de PROTEÍNA + 300gr de CREATINA - STAR NUTRITION",
-        price: "$71.000",
-        offerPrice: "$63.900",
+        price: "$74.000",
+        offerPrice: "$66.600",
       },
       {
         id: 70,
@@ -568,7 +568,7 @@ export const productData: Category[] = [
         ],
         title: "PRE-ENTRENO - TNT DYNAMITE STAR NUTRITION",
         description: "240GR de potencia previa al entrenamiento.",
-        price: "$22.000",
+        price: "$23.000",
         longDescription: "**Cantidad:** 240g // **Porción:** 8g // **Servicios:** 30 // **Cafeína:** 150mg por porción // // **Modo de uso:** Disolver 1 medida en 500cm³ de agua fría. Consumir 15 a 30 minutos antes del entrenamiento o la competencia. No consumir más de 2 porciones diarias. // // **Beneficios:** // 1. Aumento de energía y resistencia para entrenamientos más intensos. // 2. Mejora de la concentración y enfoque durante el ejercicio. // 3. Aumento del rendimiento físico, ayudando a maximizar la fuerza y la potencia muscular. // 4. Mejora de la circulación y el flujo sanguíneo para un mejor rendimiento durante la actividad física.",
       },
       {
@@ -579,7 +579,7 @@ export const productData: Category[] = [
         ],
         title: "PRE-ENTRENO - PUMP V8 STAR NUTRITION",
         description: "285GR de foco y resistencia.",
-        price: "$29.300",
+        price: "$30.500",
         featuredId: 6,
         longDescription: "**Cantidad:** 285g // **Porción:** 9.5g // **Servicios:** 30 // **Cafeína:** 200mg por porción // // **Modo de uso:** Disolver 1 medida en 500cm³ de agua fría. Consumir 15 a 30 minutos antes del entrenamiento o la competencia. No consumir más de 2 porciones diarias. // // **Beneficios:** // 1. Aumento de energía y resistencia para entrenamientos más intensos. // 2. Mejora de la concentración y enfoque durante el ejercicio. // 3. Aumento del rendimiento físico, ayudando a maximizar la fuerza y la potencia muscular. // 4. Mejora de la circulación y el flujo sanguíneo para un mejor rendimiento durante la actividad física.",
       },
@@ -849,7 +849,7 @@ export const productData: Category[] = [
         ],
         title: "COLÁGENO SPORT - STAR NUTRITION",
         description: "360GR para articulaciones, piel y recuperación.",
-        price: "$18.500",
+        price: "$20.500",
         longDescription: "**Cantidad:** 360 g // **Porción:** 12 g (2 scoops colmados) // **Servicios por envase:** 30 // // **Modo de uso:** Tomar 1 porción (2 scoops colmados) en un vaso de agua al día, preferentemente por la mañana. // // **Ingredientes:** Colágeno hidrolizado tipo 2, vitamina C, citrato de magnesio, cafeína. // // **Beneficios principales:** // • Fortalece articulaciones, tendones y ligamentos. // • Mejora la salud de la piel, uñas y cabello. // • Favorece la recuperación muscular y previene lesiones. // • Aporta colágeno hidrolizado de fácil absorción. // • Ideal para quienes entrenan con regularidad o tienen desgaste físico."
       }
     ],
@@ -896,7 +896,7 @@ export const productData: Category[] = [
         ],
         title: "ISOTONICA - HYDRO PLUS STAR NUTRITION",
         description: "700GR para hidratación y rendimiento.",
-        price: "$16.000",
+        price: "$16.500",
         longDescription: "**Cantidad:** 700g // **Porción:** 35g // **Servicios por envase:** 20 // // **Modo de uso:** Disolver 1 porción (35g) en 500 ml de agua. Consumir antes, durante o después del entrenamiento para mantener una hidratación óptima y reponer electrolitos. También puede tomarse en cualquier momento del día para mejorar el rendimiento físico en condiciones de alta exigencia o calor. // // **Ingredientes:** Carbohidratos, vitamina E, vitamina C, calcio, sodio, potasio, magnesio, BCAA. // // **Beneficios principales:** // • Reponen electrolitos perdidos durante el ejercicio. // • Mejoran la hidratación y el rendimiento físico. // • Aportan energía rápida gracias a sus carbohidratos simples. // • Reducen el cansancio y previenen calambres. // • Ideal para entrenamientos intensos o días de calor.",
       },
       {
